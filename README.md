@@ -2,21 +2,21 @@
 
 ## About Me
 
-I am a 1st year B.Tech student at the Indian Institute of Engineering Science and Technology, Shibpur, pursuing a degree in Computer Science. My journey into the world of technology started with a fascination for how things work, and it has grown into a passion for creating and solving problems through code.
+I am a 2nd-year B.Tech student at the Indian Institute of Engineering Science and Technology, Shibpur, pursuing a degree in Computer Science. My journey into the world of technology started with a fascination for how things work, and it has grown into a passion for creating and solving problems through code.
 
 ## Education
 
 **B.Tech in Computer Science**
 - **Institution:** Indian Institute of Engineering Science and Technology, Shibpur
-- **Year:** First Year
+- **Year:** Second Year
 
 ## Technical Skills
 
 I have a diverse set of technical skills that I am continually expanding and refining:
 
-- **Languages:** Java, Python, C, C++
+- **Languages:** Java, Python, C, C++, C#
 - **Web Development:** HTML, CSS
-- **Tools & Platforms:** VS Code
+- **Tools & Platforms:** VS Code, Visual Studio
 
 ## Projects and Experience
 
@@ -40,8 +40,8 @@ Beyond my coursework and projects, I have a keen interest in:
 
 As I continue my studies, I have set several goals for myself:
 
-- **Learning:** I am currently diving deeper into data structures and algorithms, which are fundamental to my field.
-- **Projects:** I plan to work on more complex projects, particularly in the areas of web development and machine learning.
+- **Learning:** I am diving deeper into data structures and algorithms, which are fundamental to my field.
+- **Projects:** I plan to work on more complex projects, particularly in web development and machine learning.
 - **Networking:** I aim to connect with like-minded individuals and professionals in the tech community to learn and grow.
 
 ## Contact Me
