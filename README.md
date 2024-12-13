@@ -50,6 +50,6 @@ I am always open to connecting with fellow students, developers, and professiona
 
 - **LinkedIn:** https://www.linkedin.com/in/vaibhav-singh-532941293/
 - **Instagram:** https://www.instagram.com/va._.ibh._.av/
-- **Email:** vaibhavdmcsingh@gmail.com
+- **Email:** vaibhavvsingh1703@gmail.com
 
 Thank you for visiting my GitHub profile! Let's create something amazing together.
