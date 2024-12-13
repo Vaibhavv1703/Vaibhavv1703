@@ -20,13 +20,7 @@ I have a diverse set of technical skills that I am continually expanding and ref
 
 ## Projects and Experience
 
-While I am early in my academic journey, I have already begun working on various projects to apply my skills and learn new concepts:
-
-- **SoundScape**
-  - **Description:** SoundScape is a Python project that visualizes the real-time audio recorded through a microphone, using the PyAudio and PySimpleGUI libraries. It creates a dynamic and interactive soundscape that changes according to the sound input. You can use it to explore the sound properties of different environments, such as a busy street, a quiet park, or a noisy classroom.
-  - **Technologies Used:** Python, Jupyter Notebook
-  - **Link:** https://github.com/Vaibhavv1703/SoundScape
-
+**NOT YET!!**
 
 ## Personal Interests
 
