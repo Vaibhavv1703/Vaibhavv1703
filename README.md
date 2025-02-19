@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Vaibhav Singh
+# 👋 Hey Guys! I'm Vaibhav Singh
 
 ## About Me
 
