@@ -42,8 +42,9 @@ As I continue my studies, I have set several goals for myself:
 
 I am always open to connecting with fellow students, developers, and professionals. Feel free to reach out to me through the following channels:
 
-- **LinkedIn:** https://www.linkedin.com/in/vaibhav-singh-532941293/
+- **LinkedIn:** https://www.linkedin.com/in/vaibhavsingh1703/
 - **Instagram:** https://www.instagram.com/va._.ibh._.av/
+- **Discord:** carbon_blue
 - **Email:** vaibhavvsingh1703@gmail.com
 
 Thank you for visiting my GitHub profile! Let's create something amazing together.
