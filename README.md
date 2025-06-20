@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a 2nd-year B.Tech student at the Indian Institute of Engineering Science and Technology, Shibpur, pursuing a degree in Computer Science. My journey into the world of technology started with a fascination for how things work, and it has grown into a passion for creating and solving problems through code.
+I am a 3rd-year B.Tech student at the Indian Institute of Engineering Science and Technology, Shibpur, pursuing a degree in Computer Science. My journey into the world of technology started with a fascination for how things work, and it has grown into a passion for creating and solving problems through code.
 
 ## Education
 
