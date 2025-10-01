@@ -1,50 +1,31 @@
-# 👋 Hey Guys! I'm Vaibhav Singh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vaibhav Singh
+======================================================================================================================================
 
-## About Me
+Student and Coder
+-----------------
 
 I am a 3rd-year B.Tech student at the Indian Institute of Engineering Science and Technology, Shibpur, pursuing a degree in Computer Science. My journey into the world of technology started with a fascination for how things work, and it has grown into a passion for creating and solving problems through code.
 
-## Education
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [https://vaibhavv1703.github.io/](http://vaibhavv1703.github.io/)
+* ✉️  You can contact me at [vaibhavvsingh1703@gmail.com](mailto:vaibhavvsingh1703@gmail.com)
+<p align="left">Honestly? I like to do everything, and by that I actually mean everything, like for me, technology is something that I can never get bored of.</p>
 
-**B.Tech in Computer Science**
-- **Institution:** Indian Institute of Engineering Science and Technology, Shibpur
-- **Year:** Second Year
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+</p>
 
-## Technical Skills
+### Socials
 
-I have a diverse set of technical skills that I am continually expanding and refining:
+<p align="left"> <a href="https://www.github.com/vaibhavv1703" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vaibhavsingh1703" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/1351436381200715786" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
 
-- **Languages:** Java, Python, C, C++, C#
-- **Web Development:** HTML, CSS
-- **Tools & Platforms:** VS Code, Visual Studio
+<b>My GitHub Stats</b>
 
-## Projects and Experience
+<a href="http://www.github.com/vaibhavv1703"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavv1703&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vaibhavv1703's GitHub stats" /></a>
 
-**NOT YET!!**
+<a href="https://github.com/vaibhavv1703" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv1703&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## Personal Interests
+<b>Top Repositories</b>
 
-Beyond my coursework and projects, I have a keen interest in:
-
-- **Artificial Intelligence:** Exploring the basics of AI and its applications.
-- **Open Source Contributions:** Contributing to open source projects to give back to the community and learn from experienced developers.
-- **Competitive Programming:** Participating in coding competitions to improve problem-solving skills.
-
-## Goals
-
-As I continue my studies, I have set several goals for myself:
-
-- **Learning:** I am diving deeper into data structures and algorithms, which are fundamental to my field.
-- **Projects:** I plan to work on more complex projects, particularly in web development and machine learning.
-- **Networking:** I aim to connect with like-minded individuals and professionals in the tech community to learn and grow.
-
-## Contact Me
-
-I am always open to connecting with fellow students, developers, and professionals. Feel free to reach out to me through the following channels:
-
-- **LinkedIn:** [vaibhavsingh1703](https://www.linkedin.com/in/vaibhavsingh1703/)
-- **Instagram:** [va._.ibh._.av](https://www.instagram.com/va._.ibh._.av/)
-- **Discord:** [carbon_blue](https://discordapp.com/users/1351436381200715786)
-- **Email:** vaibhavvsingh1703@gmail.com
-
-Thank you for visiting my GitHub profile! Let's create something amazing together.
+<div width="100%" align="center"><a href="https://github.com/vaibhavv1703/tShark" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavv1703&repo=tShark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vaibhavv1703/passwordTool" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavv1703&repo=passwordTool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
