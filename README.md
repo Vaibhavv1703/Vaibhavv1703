@@ -29,7 +29,7 @@
 name:        Vaibhav Singh
 institution: IIEST Shibpur
 degree:      B.Tech Computer Science (3rd Year)
-location:    India 📍
+location:    India
 focus:       Systems · Web · Algorithms
 philosophy:  "Technology is something I can never get bored of"
 status:      Open to collaboration
@@ -39,7 +39,7 @@ I build things at the intersection of **systems**, **the web**, and **algorithms
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@ I build things at the intersection of **systems**, **the web**, and **algorithms
 
 ---
 
-## 🔨 Projects
+##  Projects
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Rates passwords, calculates entropy, estimates crack time, and stores credential
 <tr>
 <td colspan="2" align="center">
 
-### 🚀 Next Up
+###  Next Up
 Always building. Always learning. Current focus: **Algorithm implementations** and full-stack web projects. *Watch this space.*
 
 </td>
@@ -119,7 +119,7 @@ Always building. Always learning. Current focus: **Algorithm implementations** a
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavv1703&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
